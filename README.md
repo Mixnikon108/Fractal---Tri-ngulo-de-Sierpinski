@@ -1,1 +1,1 @@
-# Fractal---Tri-ngulo-de-Sierpinski
+# Fractal---Triángulo-de-Sierpinski
